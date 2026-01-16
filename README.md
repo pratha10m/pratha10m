@@ -18,29 +18,24 @@ I focus on clean JavaScript, practical problem-solving, and building application
 
 Connect with me:www.linkedin.com/in/prathameshkamble10
 
----
+----
 
-## 🛠️ Tech Stack
+🛠️ Skills & Tools
 
-**Frontend**
-- React.js
-- HTML5, CSS3
-- JavaScript (ES6+)
-- Responsive UI / UX
 
-**Backend**
-- Node.js
-- Express.js
-- REST API Development
+Languages: JS, Python, Java, C, C++,
 
-**Database**
-- MongoDB
+Frontend: React, Next, Vue, Angular, Vite, Three.js (basic)
 
-**Tools & Deployment**
-- Git & GitHub
-- WhatsApp API
-- Vercel
-- SEO Basics
+Backend: Node.js, Express, Django
+
+Testing: Hardhat, Foundry, Slither, Chai/Mocha, Remix IDE
+
+Deployment: AWS (EC2, S3, Amplify, Lambda), Vercel
+
+Optimization: Custom React prod scripts
+
+Bonus: I can adapt to any React-style framework like a shapeshifter.
 
 ---
 
