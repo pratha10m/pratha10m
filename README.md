@@ -1,80 +1,27 @@
-Welcome to Prathamesh’s GitHub 🌟
+<h1 align="center">Hi 👋, I'm Prathamesh Kamble</h1>
+<h3 align="center">Full-Stack MERN Developer working across both frontend and backend. I build user interfaces with React and handle server-side logic, APIs, and databases using Node.js, Express, and MongoDB. I focus on clean JavaScript, real project work, and understanding systems end-to-end.</h3>
 
-Hey 👋
-I’m Prathamesh — a Full Stack Developer with a strong focus on JavaScript, backend systems, and practical Web3 experimentation.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratha10m&label=Profile%20views&color=0e75b6&style=flat" alt="pratha10m" /> </p>
 
-I build applications end-to-end, break them, debug them, optimize them, and repeat — because that’s how real engineering skill is built.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratha10m" alt="pratha10m" /></a> </p>
 
-👨‍💻 About Me
+- Kashmiri Cooking Channel A content-focused web project showcasing Kashmiri cuisine. Built with React for the frontend Focus on clean UI, responsiveness, and content presentation Designed to scale as a full content platform [kashmiri cooking channel](https://kashmiri-kitchen.vercel.app/)
 
-Background in Computer Science
-Full Stack Developer (Frontend + Backend)
-Strong focus on JavaScript fundamentals
-Exploring Web3, smart contracts, and decentralized systems
-I build real projects, not tutorial clones
-Coffee is optional. Debugging is not.
-I enjoy understanding how systems work under the hood, not just making things “run”.
+- Skills & Tools **Languages: JS, Python, Java, C, C++, Frontend: React, Next, Vue, Angular, Vite, Three.js (basic) Backend: Node.js, Express, Django Testing: Hardhat, Foundry, Slither, Chai/Mocha, Remix IDE Deployment: AWS (EC2, S3, Amplify, Lambda), Vercel Optimization: Custom React prod scripts**
 
-🛠️ Skills & Tools
+- A market-focused web application analyzing horizontal price movement. Full-stack MERN architecture Frontend in React, backend APIs in Node.js + Express Structured data handling with MongoDB Built to understand real-world market behavior, not just visuals [Horizon Market Edge](https://frontend-five-beta-37.vercel.app/)
 
-Languages
-JavaScript (core focus)
-Python
-Java
-C / C++
+- About Me **Master’s in Computer Science Software Developer at TecMetaverse Fluent in Django, JS, MERN, SQL, Postman, and sarcasm.I create Full Stack WebApps, build dApps, write smart contracts, break stuff, fix it (sometimes), and drink way too much coffee.**
 
-Frontend
-React
-Next.js
-HTML5, CSS3
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RTMfV_-fr9P_uPplsk46a1pHaSFp9Xg5/view?usp=sharing](https://drive.google.com/file/d/1RTMfV_-fr9P_uPplsk46a1pHaSFp9Xg5/view?usp=sharing)
 
-Modern UI & state management
-Backend
-Node.js
-Express
-REST APIs
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/prathameshkamble10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathameshkamble10" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/411061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="411061" height="30" width="40" /></a>
+</p>
 
-Databases (SQL & NoSQL)
-Web3 / Blockchain
-Smart contracts (learning & building)
-Ethereum & dApp fundamentals
-Solidity basics
-Hardhat / Remix (practice level)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-Deployment & Dev Tools
-
-Vercel
-AWS (basic usage)
-Git & GitHub
-Postman
-
-💻 Tech Stack
-
-JavaScript • Node.js • React • Next.js • Express
-HTML • CSS • SQL • MongoDB
-Solidity (learning) • Web3.js
-AWS • Vercel • Git
-
-🔥 Projects
-I prefer small, real projects that teach fundamentals over flashy demos.
-
-Full Stack Web Applications — frontend + backend systems
-
-Web3 Experiments — smart contracts & dApp workflows
-
-JavaScript-focused builds — logic, performance, structure
-
-Ongoing WIP projects — constantly improving & refactoring
-
-(More projects coming as I ship consistently.)
-
-🧠 How I Work
-Fundamentals over shortcuts
-Debugging is a skill
-Clean logic > fancy abstractions
-I don’t wait for motivation — I build discipline
-
-🤝 Open To
-Collaboration on meaningful projects
-Learning from strong engineers
-Building systems that solve real problems
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratha10m&show_icons=true&locale=en" alt="pratha10m" /></p>
