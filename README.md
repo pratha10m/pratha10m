@@ -54,7 +54,6 @@ A full-stack web platform showcasing traditional **Kashmiri cuisine**.
 
 🔗 Live Demo: https://kashmiri-kitchen.vercel.app/
 
-![Kashmiri Kitchen Preview](./images/kashmiri-kitchen.png)
 
 ---
 
@@ -68,8 +67,6 @@ A MERN-based web application focused on analyzing **horizontal market movement**
 - Deployed on **Vercel**
 
 🔗 Live Demo: https://frontend-five-beta-37.vercel.app/
-
-![Horizontal Market Edge Preview](./images/horizontal-market-edge.png)
 
 ---
 
