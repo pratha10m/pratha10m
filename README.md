@@ -16,7 +16,7 @@ I focus on clean JavaScript, practical problem-solving, and building application
 - I learn by building, breaking, debugging, and improving.
 - 📄 Know about my experiences https://drive.google.com/file/d/1RTMfV_-fr9P_uPplsk46a1pHaSFp9Xg5/view?usp=sharing
 
-Connect with me:
+Connect with me:www.linkedin.com/in/prathameshkamble10
 
 ---
 
