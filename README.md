@@ -96,6 +96,4 @@ A MERN-based web application focused on analyzing **horizontal market movement**
 - API design and scalability
 - Code structure and maintainability
 
----
 
-> No hype. No fake stacks. Just consistent building and improvement.
