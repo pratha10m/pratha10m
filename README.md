@@ -13,7 +13,10 @@ I focus on clean JavaScript, practical problem-solving, and building application
 - Strong focus on **React**, **Node.js**, and **API development**
 - Experience building and deploying real-world projects
 - Interested in clean UI, scalable backend logic, and performance
-- I learn by building, breaking, debugging, and improving
+- I learn by building, breaking, debugging, and improving.
+- 📄 Know about my experiences https://drive.google.com/file/d/1RTMfV_-fr9P_uPplsk46a1pHaSFp9Xg5/view?usp=sharing
+
+Connect with me:
 
 ---
 
