@@ -1,94 +1,24 @@
-# 👋 Hi, I’m Prathamesh
-
-### Full-Stack MERN Developer | Frontend & Backend
-
-I build **end-to-end web applications** using the **MERN stack** — working across both **frontend and backend**.  
-I focus on clean JavaScript, practical problem-solving, and building applications that actually run in production.
-
----
-
-## 🧠 About Me
-
-- Full-Stack MERN Developer (Frontend + Backend)
-- Strong focus on **React**, **Node.js**, and **API development**
-- Experience building and deploying real-world projects
-- Interested in clean UI, scalable backend logic, and performance
-- I learn by building, breaking, debugging, and improving.
-- 📄 Know about my experiences https://drive.google.com/file/d/1RTMfV_-fr9P_uPplsk46a1pHaSFp9Xg5/view?usp=sharing
-
-Connect with me:www.linkedin.com/in/prathameshkamble10
-
-----
-
-🛠️ Skills & Tools
+# 🌟 About Me: 
+Hi, I’m Prathamesh<br><br>Full-Stack MERN Developer | Frontend & Backend<br>I build end-to-end web applications using the MERN stack — working across both frontend and backend.<br>I focus on clean JavaScript, practical problem-solving, and building applications that actually run in production.<br><br>🧠 About Me<br>Full-Stack MERN Developer (Frontend + Backend)<br>Strong focus on React, Node.js, and API development<br>Experience building and deploying real-world projects<br>Interested in clean UI, scalable backend logic, and performance<br>I learn by building, breaking, debugging, and improving.<br>📄 Know about my experiences https://drive.google.com/file/d/1RTMfV_-fr9P_uPplsk46a1pHaSFp9Xg5/view?usp=sharing<br>Connect with me: www.linkedin.com/in/prathameshkamble10<br><br>🛠️ Skills & Tools<br><br>Languages: JS, Python, Java, C, C++,<br>Frontend: React, Next, Vue, Angular, Vite, Three.js (basic)<br>Backend: Node.js, Express, Django<br>Testing: Hardhat, Foundry, Slither, Chai/Mocha, Remix IDE<br>Deployment: AWS (EC2, S3, Amplify, Lambda), Vercel<br>Optimization: Custom React prod scripts<br>Bonus: I can adapt to any React-style framework like a shapeshifter.<br><br>🔥 Projects<br>🍲 Kashmiri Kitchen<br>A full-stack web platform showcasing traditional Kashmiri cuisine.<br><br>Responsive frontend built with React<br>Backend APIs using Node.js & Express<br>Integrated WhatsApp API for direct user engagement<br>SEO-friendly structure and performance optimization<br>Deployed on Vercel<br>🔗 Live Demo: https://kashmiri-kitchen.vercel.app/<br><br>📊 Horizontal Market Edge<br>A MERN-based web application focused on analyzing horizontal market movement.<br><br>Full-stack MERN architecture<br>Frontend in React<br>Backend APIs with Node.js & Express<br>Structured data handling<br>Deployed on Vercel<br>🔗 Live Demo: https://frontend-five-beta-37.vercel.app/<br><br>🧩 How I Work<br>Frontend and backend are equally important<br>Prefer clarity over complexity<br>Debugging is part of the craft<br>Everything listed here is practical and defendable<br><br>🤝 Open To<br>Freelance and collaboration opportunities<br>Learning with other developers<br>Building real-world web applications<br><br>🚀 Currently Improving<br>MERN architecture patterns<br>API design and scalability<br>Code structure and maintainability
 
 
-Languages: JS, Python, Java, C, C++,
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathameshkamble10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:PRATHAMESHKAMBLE1011@GMAIL.COM) 
 
-Frontend: React, Next, Vue, Angular, Vite, Three.js (basic)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pratha10m&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pratha10m&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratha10m&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Backend: Node.js, Express, Django
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pratha10m&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-Testing: Hardhat, Foundry, Slither, Chai/Mocha, Remix IDE
-
-Deployment: AWS (EC2, S3, Amplify, Lambda), Vercel
-
-Optimization: Custom React prod scripts
-
-Bonus: I can adapt to any React-style framework like a shapeshifter.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pratha10m&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=pratha10m&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔥 Projects
-
-### 🍲 Kashmiri Kitchen
-A full-stack web platform showcasing traditional **Kashmiri cuisine**.
-
-- Responsive frontend built with **React**
-- Backend APIs using **Node.js & Express**
-- Integrated **WhatsApp API** for direct user engagement
-- SEO-friendly structure and performance optimization
-- Deployed on **Vercel**
-
-🔗 Live Demo: https://kashmiri-kitchen.vercel.app/
-
-
----
-
-### 📊 Horizontal Market Edge
-A MERN-based web application focused on analyzing **horizontal market movement**.
-
-- Full-stack MERN architecture
-- Frontend in **React**
-- Backend APIs with **Node.js & Express**
-- Structured data handling
-- Deployed on **Vercel**
-
-🔗 Live Demo: https://frontend-five-beta-37.vercel.app/
-
----
-
-## 🧩 How I Work
-
-- Frontend and backend are equally important
-- Prefer clarity over complexity
-- Debugging is part of the craft
-- Everything listed here is practical and defendable
-
----
-
-## 🤝 Open To
-
-- Freelance and collaboration opportunities
-- Learning with other developers
-- Building real-world web applications
-
----
-
-## 🚀 Currently Improving
-
-- MERN architecture patterns
-- API design and scalability
-- Code structure and maintainability
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
